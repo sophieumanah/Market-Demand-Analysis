@@ -1,4 +1,5 @@
 # MyOnlineShop Market Demand Analysis
+![](coverphoto.png)
 
 
 ## 📌 Introduction  
@@ -61,6 +62,11 @@ The goal is to uncover actionable insights that guide **marketing, pricing, and 
 5. **Rating** → Kept missing ratings as `Null` to distinguish rated vs. unrated products.  
 
 ---
+![](page-1.png)
+
+
+![](page-2.png)
+
 
 ## 📊 Key Insights  
 - **Engagement:** 607,000 reviews total; avg. 606 reviews per product.  
